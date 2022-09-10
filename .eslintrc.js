@@ -14,5 +14,8 @@ module.exports = {
     'no-console': 'off',
     'linebreak-style': 0,
     'class-methods-use-this': 'off',
+    'import/first': 'off',
+    'import/newline-after-import': 'off',
+    'no-param-reassign': 'off',
   },
 };
